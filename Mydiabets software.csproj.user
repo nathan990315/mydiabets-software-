@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\natha\OneDrive\diabete\|ftp://ping334.blogspot.ch/p/dowload.html/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://localhost/Mydiabets software/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://1drv.ms/f/s!Ah0d5dgs5pp9gt8-XTMK9v-kdWW05w/|http://ping334.blogspot.ch/p/dowload.html/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
