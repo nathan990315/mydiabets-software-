@@ -1,0 +1,11 @@
+TABELLA CICLO DI VITA DELLE VERSIONI MYDIABETES 
+
+Mydiabetes 1.0.X.X rilascio: 20.4.17   SP piu recente: N/A   fine supporto SP:     Fine supporto mainstream: 20.12.17
+Fine supporto extendet: 20.06.18  Fine supporto RTM***: 20.08.16
+
+
+Nota bene: Durante il periodo di vita del prodotto verranno rilasciati aggiornamenti minori* o service pack**
+* Aggiornamenti minori: tali aggiornamenti portano solo bugfix e correttivi, tali aggiornamenti non influiscono con la durata del supporto.
+** I service pack vengono rilasciati durante il periodo di supporto mainstream, questi aggiornamenti possono far prolungare il ciclo di 
+supporto del prodotto 
+***Con RTM si intende la versione iniziale senza non aggiornata al service pack 
